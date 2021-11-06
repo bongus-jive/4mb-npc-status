@@ -1,0 +1,9 @@
+{
+  "version" : "1.0",
+  "author" : "patman",
+  "description" : "adds a 4 megabyte string to npcs/statuses.config\n\nprobably lags? no idea im not testing it lol\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
+  "name" : "pat_4mbstatus",
+  "friendlyName" : "4 mb npc status",
+  "steamContentId" : "2647024517",
+  "link" : "steam://url/CommunityFilePage/2647024517"
+}
